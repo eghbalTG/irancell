@@ -10,11 +10,11 @@ import sys
 
 reload(sys) 
 sys.setdefaultencoding("utf-8") 
-token = "xxxxxx:xxxxxxxxxxxxxxxxxxxxxx" #TOKEN
+token = "395084579:AAEvefJcwp6yi4daByGcYS60M_vWmCmFTWA" #TOKEN
 bot = TeleBot(token) 
 R = redis.StrictRedis(host='localhost', port=6379, db=0) 
-admin =  131020409 #ID_ADMIN
-channel = -1001030480095 #ID_CHANNEL
+admin =  185456746 #ID_ADMIN
+channel = -1001110230226 #ID_CHANNEL
 
 #----------------------------------------------
 
